@@ -1,4 +1,8 @@
-
+/**
+ * En esta clase instanciaremos el objeto 'Clase'
+ * 
+ * @author Carlota Pertusa
+ */
 public class Principal 
 {
 
